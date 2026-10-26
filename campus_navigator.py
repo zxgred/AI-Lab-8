@@ -1,4 +1,4 @@
-    
+
 campus = {
     "Hostel": {
         "Cafeteria": 150,
@@ -62,5 +62,3 @@ def gbfs(start, goal):
 
 
 gbfs("Hostel", "Library")
-
-
