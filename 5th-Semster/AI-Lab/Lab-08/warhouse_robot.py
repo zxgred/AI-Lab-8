@@ -56,3 +56,4 @@ def a_star(start, goal):
 
 
 a_star("Receiving", "Packing Station")
+# Updated from the cloned repository.
